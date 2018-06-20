@@ -1,0 +1,36 @@
+<resources>
+    <string name="host">10.0.2.2:8080</string>
+    <string name="school_phone">+74732582833</string>
+    <string name="teacher_phone">+74732582833</string>
+
+    <string name="englishschool">Английский комментарий</string>
+    <string name="welcome">Добро пожаловать, welcome!</string>
+
+    <string name="date_now">Сейчас</string>
+    <string name="date_format">dd.MM.yyyy HH:mm</string>
+
+    <string name="enter_your_name">Пожалуйста, представьтесь</string>
+    <string name="enter_your_pass">Введите ваш пароль</string>
+
+    <string name="continue_button">Продолжить</string>
+    <string name="next_button">Посмотреть\nследующее занятие</string>
+    <string name="absence_button">Предупредить\nоб отсутствии</string>
+    <string name="select_button">Посмотреть\nвсю информацию</string>
+    <string name="retake_button">Записаться\nна пересдачу</string>
+    <string name="call_school_button">Позвонить в школу\n+7 (473) 258–28–33</string>
+    <string name="call_teacher_button">Позвонить\nсвоему преподавателю</string>
+
+    <string name="date">Дата:&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="topic">Тема:&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="homework">Задание:&#160;&#160;&#160;</string>
+    <string name="mark">Результат:&#160;</string>
+
+    <string name="checking">Проверяем…</string>
+    <string name="loading">Загружаем…</string>
+
+    <string name="connection_error">Ошибка: отсутствует соеднинение!\nПроверьте подключение к сети.</string>
+    <string name="server_error">Ошибка: сервер не работает!\nПопробуйте позже.</string>
+    <string name="checkUserPass_error">Ошибка: неверный логин или пароль!</string>
+    <string name="json_parsing_error">Ошибка: неправильный json!</string>
+    <string name="json_getting_error">Ошибка: json не получен!</string>
+</resources>
